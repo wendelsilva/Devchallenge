@@ -45,6 +45,7 @@ input{
     outline: none;
     border-radius: 50px;
     border: solid white;
+    
 }
 
 #lock{
@@ -95,4 +96,12 @@ footer p{
 div{
     margin: auto;
     align-self: center;
+}
+
+#error{
+    position: absolute;
+    bottom: 45%;
+    left: 5.5%;
+    color: white;
+    font-weight: 100;
 }
