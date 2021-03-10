@@ -45,8 +45,13 @@ input{
     outline: none;
     border-radius: 50px;
     border: solid white;
+    font-weight: 300;
     
 }
+
+::-webkit-input-placeholder {
+    color: white;
+ }
 
 #lock{
     position: absolute;
