@@ -56,14 +56,14 @@ input{
 #lock{
     position: absolute;
     color: white;
-    bottom: 39.2%;
+    bottom: 37.5%;
     left: 5%;
 }
 
 #at{
     position: absolute;
     color: white;
-    bottom: 48.2%;
+    bottom: 46.8%;
     left: 5%;
 }
 
@@ -75,6 +75,7 @@ button{
     font-size: 24px;
     cursor: pointer;
     outline: none;
+    border: none;
 }
 
 footer{
@@ -105,7 +106,7 @@ div{
 
 #error{
     position: absolute;
-    bottom: 45%;
+    bottom: 43%;
     left: 5.5%;
     color: white;
     font-weight: 100;
