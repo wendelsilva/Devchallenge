@@ -6,6 +6,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+body{
+    overflow-x: hidden;
+}
+
 header{
     display: flex;
     justify-content: space-between;
@@ -39,13 +43,12 @@ li, a{
 
 .elipse{
     position: absolute;
-    width: 348.17px;
-    height: 448.83px;
-    left: 1000px;
-    top: -259px;
+    width: 280px;
+    height: 200px;
+    right: 0;
+    top: -70px;
     z-index: -1;
-    border-radius: 50%;
-    transform: rotate(55deg);
+    border-radius: 100% 0 80% 100%;
     border: 2px solid #C4C4C4;
     background-color: #C4C4C4;
 }
@@ -63,9 +66,106 @@ section{
     font-weight: bold;
     font-size: 48px;
     line-height: 72px;
-    text-align: ;
+    text-align: center;
+    padding-left: 10%;
 }
 
 .slogan::first-letter{
     color: #6c63ff;
+}
+
+span{
+    color: #6c63ff;
+}
+
+/* Main */
+
+main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.main-title{
+    margin-bottom: 4%;
+}
+
+.main-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.question{
+    display: flex;
+    flex-direction: column;
+    width: 50vh;
+    margin-right: 2%;
+}
+
+.main-question{
+    border: 3px solid #6c63ff;
+    border-radius: 15px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    padding: 4% 8%;
+    margin-top: 6%;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.description{
+    display: flex;
+    flex-direction: column;
+    width: 50vh;
+    margin-top: 3%;
+    margin-left: 2%;
+}
+
+.main-description{
+    border: 1px solid #000;
+    border-radius: 5px;
+    height: 100%;
+    padding: 5%;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+}
+
+button{
+    color: #6c63ff;
+    background-color: black;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 36px;
+    border: none;
+    outline: none;
+    width: 40%;
+    margin-top: 6%;
+    cursor: pointer;
+}
+
+/* Footer */
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 4% 6%;
+    align-items: center;
+    background-color: #6c63ff;
+    color: black;
+    margin-top: 15%;
+}
+
+.footer-nav a{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.footer-nav li{
+    padding: 5% 0;
+}
+
+footer h1{
+    font-weight: bold;
+    font-size: 64px;
 }
