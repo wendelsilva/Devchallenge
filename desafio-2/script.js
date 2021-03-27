@@ -10,7 +10,6 @@ document.getElementById('fmail').oninvalid = function remover (evt) {
             var orientacao = document.getElementById('fmail');
             var aviso = document.getElementById('error');
             document.getElementById('lpass').value = "";
-            document.getElementById('at').style.color = "#ff5757";
             aviso.innerHTML = "<p>Por favor, insira um e-mail válido<p>";
             orientacao.value = "";
             orientacao.setAttribute("placeholder", "email@exemplo");

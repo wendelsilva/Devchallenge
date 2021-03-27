@@ -49,24 +49,26 @@ input{
     
 }
 
+form #fmail{
+    background: url(static/arroba-sign.svg) no-repeat scroll 7px 7px;
+}
+
+form #lpass{
+    background: url(static/locked-padlock-outline.svg) no-repeat scroll 7px 7px;
+}
+
 ::-webkit-input-placeholder {
     color: white;
  }
 
-#lock{
-    position: absolute;
-    color: white;
-    bottom: 37.5%;
-    left: 5%;
+span{
+    position:absolute;
+    top:0; right:0;
+    z-index:10;
+    border:none;
+    background:transparent;
+    outline:none;
 }
-
-#at{
-    position: absolute;
-    color: white;
-    bottom: 46.8%;
-    left: 5%;
-}
-
 
 button{
     background-color: white;
@@ -106,8 +108,7 @@ div{
 
 #error{
     position: absolute;
-    bottom: 43%;
-    left: 5.5%;
+    left: 5%;
+    top: 57%;
     color: white;
-    font-weight: 100;
 }
