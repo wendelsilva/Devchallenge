@@ -10,6 +10,10 @@ body{
     overflow-x: hidden;
 }
 
+::-webkit-scrollbar {
+    width: 0px;
+}
+
 header{
     display: flex;
     justify-content: space-between;

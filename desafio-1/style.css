@@ -47,42 +47,47 @@ li {
 
 section {
     display: flex;
-    padding: 5% 0px 0px 15%;
+    justify-content: space-between;
+    padding: 5% 15.8%;
 }
 
 .text-div{
     display: flex;
     flex-direction: column;
-    position: absolute;
 }
 
 .text-div h1{   
-    font-size: 96px;
+    font-size: 70px;
     color: #766F68;
 }
 
 .text-div p{
     padding-top: 5%;
-    font-size: 41.4px;
+    font-size: 29.7px;
+    font-weight: 500;
     color: #766F68;
 }
 
 .text-div button{
-    margin-top: 5%;
-    padding: 3%;
+    margin-top: 10%;
+    padding: 4%;
     background-color: #D2872C;
     border: none;
     border-radius: 15px;
-    height: 12%;
+    height: 20%;
     width: 62%;
 }
 
 button a{
     color: #fff;
+    font-size: 30px;
     font-weight: 700;
 }
 
 .img-div{
-    margin-left: 607px;
-    margin-top: 30px;
+    position: absolute;
+    padding: 0 225px 0 0;
+    right: 0;
+    padding-top: 0.8%;
+    z-index: -1;
 }
