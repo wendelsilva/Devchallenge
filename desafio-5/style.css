@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    --cor-principal: #D6000D;
+}
+
+body {
+    padding: 0 5%;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.nome-da-empresa {
+    padding: 2%;
+}
+
+h1 {
+    color: var(--cor-principal);
+    font-size: 4em;
+    font-style: italic;
+}
+
+h1 span {
+    color: black;
+}
+
+nav {
+    padding: 3% 0;
+}
+
+li, a {
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 20px;
+    color: black;
+    font-size: 2rem;
+}
+
+.active {
+    color: white;
+    background-color: var(--cor-principal);
+    border: 2px solid var(--cor-principal);
+    width: 200px;
+    padding: 5% 0;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.topo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 10%;
+}
+
+.imagem {
+    width: 60%;
+}
+
+.slogan {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 30%;
+}
+
+.slogan p {
+    font-size: 1.7em;
+    font-weight: bold;
+}
+
+.slogan h2 {
+    font-size: 4em;
+    color: var(--cor-principal);
+}
+
+.slogan button {
+    margin-top: 10%;
+    background-color: var(--cor-principal);
+    color: white;
+    font-size: 2em;
+    padding: 3%;
+    width: 75%;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+
+}
+
+main {
+    margin-top: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.servicos {
+    width: 30%;
+}
+
+li:not(:first-child) {
+    margin-top: 2%;
+}
+
+.servicos li::before {
+    content: "✔";
+    color: white;
+    background-color: var(--cor-principal);
+    border-radius: 100%;
+    margin-right: 25px;
+    padding: 5px;
+}
+
+.servicos ul {
+    display: flex;
+    flex-direction: column;
+}
+
+.servicos h3 {
+    margin-left: 2%;
+    margin-top: 10%;
+    margin-bottom: 2%;
+    font-size: 1.7em;
+    font-weight: bold;
+    width: 100%;
+}
+
+.contato {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    margin-left: 2%;
+}
+
+.servicos input {
+    padding: 3.5%;
+    background-color: #DCDCDC;
+    font-size: 1em;
+    border: none;
+    outline: none;
+    border-radius: 15px;
+}
+
+.servicos input[type = button] {
+    color: white;
+    background-color: var(--cor-principal);
+    border: 2px solid var(--cor-principal);
+    width: 300px;
+    padding: 2%;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 1.7em;
+    margin-left: 2%;
+}
