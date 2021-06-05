@@ -29,8 +29,6 @@ O desafio é criar uma página sobre um site de criação de gráficos.
 HTML<br>
 CSS
 
-<img src="https://trello-attachments.s3.amazonaws.com/590fa7f5a8ab015d0cf88052/590fa896d2d25e50583de620/255f1d04baf02f7e818c6e4ec36ddddf/desktop.png" width="380" height="380">
-
 # Colors:
 Orange: #D2872C<br>
 Gray: #766F68
