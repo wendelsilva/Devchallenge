@@ -14,7 +14,7 @@
 </p>
 
 # Challenge
-The challenge proposed by DevChallenge was to create a landingpage for a Work plin online co-work search site, made using HTML and CSS.
+The challenge proposed by DevChallenge was to create a landingpage for a Work plin online co-work search site, made using HTML and CSS.<br>
 O desafio proposto pela DevChallenge foi criar uma landingpage para um site de busca de co-work online Work plin, feito utilizando HTML e CSS.
 
 # Techs:
