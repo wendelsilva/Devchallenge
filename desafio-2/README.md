@@ -11,7 +11,7 @@
 Mais desafio em [DevChallenge](https://devchallenge.com.br/)!
 
 ## Desafio
-O desafio da DevChallenge foi criar uma pagina de autenticação que reconhece o preenchimento das informações de e-mail e retorna para o usuário um feedback de resposta da autenticação, feito utilizando HTML, CSS e JavaScript.
+O desafio proposto pela DevChallenge foi criar uma pagina de autenticação que reconhece o preenchimento das informações de e-mail e retorna para o usuário um feedback de resposta da autenticação, feito utilizando HTML, CSS e JavaScript.
 
 ## Tecnologias
 HTML
