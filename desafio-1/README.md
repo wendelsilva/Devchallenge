@@ -34,7 +34,7 @@ Orange: #D2872C<br>
 Gray: #766F68
 
 # Font family:
-- Roboto
+Roboto
 
 Designed and created by  <a href="https://github.com/Lorenalgm">Lorena</a> :)
 
