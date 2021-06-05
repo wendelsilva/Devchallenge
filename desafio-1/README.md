@@ -10,9 +10,9 @@
     Landing page to create amazing graphics
        <br />
     <br />
-    <a href="https://github.com/Lorenalgm/AmazingGraph">Challenge Repository origin</a>
+    <a href="https://github.com/Lorenalgm/AmazingGraph" taget="_blank">Challenge Repository origin</a>
     ·
-    <a href="https://www.linkedin.com/in/lorenagmontes/">Designer Contact</a>
+    <a href="https://www.linkedin.com/in/lorenagmontes/" taget="_blank">Designer Contact</a>
   </p>
 </p>
 
