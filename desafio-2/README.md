@@ -14,17 +14,17 @@ Mais desafio em [DevChallenge](https://devchallenge.com.br/)!
 O desafio proposto pela DevChallenge foi criar uma pagina de autenticação que reconhece o preenchimento das informações de e-mail e retorna para o usuário um feedback de resposta da autenticação, feito utilizando HTML, CSS e JavaScript.
 
 ## Tecnologias
-HTML
-CSS(Flexbox)
-Javascript
+HTML<br>
+CSS(Flexbox)<br>
+Javascript<br>
 
 ## Design
 O layout pode ser visto e copiado diretamente do Figma [clicando aqui](https://www.figma.com/file/QYQm17sJV0ZhviTGOa1jmZ/Untitled?node-id=0%3A1). Nesse arquivo, você pode exportar imagens e ícones como desejar.
 
 ### Cores
-Azul: #4E5BEE
-Vermelho: #FF5757
-Cinza: #F8F8F8
+Azul: #4E5BEE<br>
+Vermelho: #FF5757<br>
+Cinza: #F8F8F8<br>
 
 ### Fonte
 [Roboto](https://fonts.google.com/specimen/Roboto)
