@@ -8,7 +8,7 @@
     <br />
     <a href="https://github.com/devchallenge-io/profile-component">Repositório Original do Desafio</a>
     ·
-    Mais desafios em<a href="https://www.devchallenge.com.br/">DevChallenge</a>
+    Mais desafios em <a href="https://www.devchallenge.com.br/">DevChallenge</a>
   </p>
 </p>
 
