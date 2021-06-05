@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <img src="https://i.imgur.com/5NkBvq1.png">
+  <img src="https://i.imgur.com/5NkBvq1.png" style="max-width: 200;">
   <h3 align="center">Work Plin</h3>
 
   <p align="center">
@@ -22,7 +22,7 @@ O desafio proposto pela DevChallenge foi criar uma landingpage para um site de b
 HTML<br>
 CSS(Flexbox)
 
-<img src="design/desktop.png" width="380">
+<img src="https://github.com/lubomfim/work-plin/raw/master/design/desktop.png" width="380">
 
 - Você pode encontrar o design aqui: <a href="https://www.figma.com/file/m95CWMbgT372P5ytrlSluF/Work-Plin?node-id=0%3A1">Figma</a>
 - You can find the design here: <a href="https://www.figma.com/file/m95CWMbgT372P5ytrlSluF/Work-Plin?node-id=0%3A1">Figma</a>
