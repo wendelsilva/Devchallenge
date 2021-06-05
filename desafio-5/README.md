@@ -33,7 +33,7 @@ O desafio proposto pela DevChallenge foi criar uma landingpage para uma empresa 
 
 # Techs: 
 HTML<br>
-CSS
+CSS(Flexbox)
 
 # Dicas
 ## Cores:
