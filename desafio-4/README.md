@@ -34,6 +34,7 @@ Mobile: 320px
 Blue: #6C63FF<br>
 Black: #000000
 
-# Font family:Poppins
+# Font family:
+Poppins
 
 Designed and created by <a href="https://github.com/lubomfim">Lucas</a> :)
