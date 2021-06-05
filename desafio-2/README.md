@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/magdielndantas/grab-pagina-de-login">Repositório original do Desafio</a> | 
-  <a href="https://www.linkedin.com/in/magdielndantas/">Designer Contato</a>
+  <a href="https://www.linkedin.com/in/magdielndantas/">Contato do Designer</a>
 </p>
 
 ## DevChallenge
