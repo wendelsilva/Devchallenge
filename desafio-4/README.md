@@ -14,8 +14,7 @@
 </p>
 
 # Challenge
-Seu desafio será construir uma página sobre um site de locação de co-work online. <br><br>
-Your challenge is to build a landing page for a coworking space
+The challenge proposed by DevChallenge was to create a landingpage for a Work plin online co-work search site, made using HTML and CSS.
 O desafio proposto pela DevChallenge foi criar uma landingpage para um site de busca de co-work online Work plin, feito utilizando HTML e CSS.
 
 # Techs:
@@ -35,7 +34,6 @@ Mobile: 320px
 Blue: #6C63FF<br>
 Black: #000000
 
-# Font family:
-- Poppins
+# Font family:Poppins
 
 Designed and created by <a href="https://github.com/lubomfim">Lucas</a> :)
