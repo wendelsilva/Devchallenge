@@ -21,7 +21,6 @@
   - [Tipo de fonte](#tipo-de-fonte)
 
 # Desafio
-Deverá recriar a landing page o mais fiel possível do modelo original, tanto para desktop e mobile. O modelo final está disponível na pasta "design"
 O desafio proposto pela DevChallenge foi criar uma página para uma cafeteria get.coffee, feito utilizando HTML e CSS.
 
 # Techs:
